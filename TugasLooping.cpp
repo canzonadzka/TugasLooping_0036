@@ -39,3 +39,5 @@ void tampilFibonacci() {
     else
         cout << angka << " bukan bilangan Fibonacci." << endl;
 }
+void tampilMenu() {
+}
