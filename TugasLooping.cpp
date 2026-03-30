@@ -21,4 +21,5 @@ bool isFibonacci(int n) {
         a = b;
         b = c;
     } 
+    return (n == 0 || c == n);
 }
