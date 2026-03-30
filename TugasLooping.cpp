@@ -33,3 +33,5 @@ void tampilPrima() {
     else
         cout << angka << " bukan bilangan prima." << endl;
 }
+void tampilFibonacci() {
+}
