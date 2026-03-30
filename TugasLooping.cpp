@@ -13,3 +13,5 @@ bool isPrima(int n) {
     }
     return true;
 }
+
+bool isFibonacci(int n) 
