@@ -56,4 +56,8 @@ int main() {
                 inputAngka();
                 tampilPrima();
                 break;
+            case 2:
+                inputAngka();
+                tampilFibonacci();
+                break;
         }
