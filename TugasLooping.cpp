@@ -34,4 +34,8 @@ void tampilPrima() {
         cout << angka << " bukan bilangan prima." << endl;
 }
 void tampilFibonacci() {
+    if (isFibonacci(angka))
+        cout << angka << " adalah bilangan Fibonacci." << endl;
+    else
+        cout << angka << " bukan bilangan Fibonacci." << endl;
 }
